@@ -1,0 +1,7 @@
+Exercice :
+Créer un site avec un formulaire
+
+rep lib : outils utiles au site
+services : fichiers des fonctionnalités (CRUD par exemple)
+tmpl : fichiers phtml des vues (pour être reconnaissable)
+init : initialiser les paramètres qui sera appelé au debut de chaque fichier (par exemple lien avec la bdd)
